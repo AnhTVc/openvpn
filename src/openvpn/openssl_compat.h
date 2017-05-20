@@ -32,6 +32,7 @@
  * structures are not fully opaque.
  */
 
+
 #ifndef OPENSSL_COMPAT_H_
 #define OPENSSL_COMPAT_H_
 
